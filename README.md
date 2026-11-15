@@ -1,2 +1,2 @@
 # mi-repositorio-avance3-Final
-Avance 2: Herencia, Encapsulamiento y Diagrama UML en Python - POO
+Avance 3 final: Composición y Módulos en Python - POO
